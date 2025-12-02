@@ -5,10 +5,10 @@ A simple and addictive 2D card game built with Unity where players guess if the 
 ## 🎮 Gameplay Demo
 
 
-<video src="https://github.com/sam12fak/Hi-Lo-Card-Game-Unity/raw/master/gameplay.mp4" controls="controls" style="max-width: 100%;">
+<video src="gameplay.mp4" controls="controls" style="max-width: 100%;">
 </video>
 
-[Click here to watch gameplay.mp4](https://github.com/sam12fak/Hi-Lo-Card-Game-Unity/raw/master/gameplay.mp4)
+[Click here to watch gameplay.mp4](gameplay.mp4)
 
 ## ✨ Features
 
