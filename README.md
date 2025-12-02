@@ -4,8 +4,11 @@ A simple and addictive 2D card game built with Unity where players guess if the 
 
 ## 🎮 Gameplay Demo
 
-![Gameplay Video](https://github.com/user-attachments/assets/placeholder-video-link)
-*(Note: The video file `card game - ultifinal - Android - Unity 6.2 (6000.2.0f1) _DX12_ 2025-09-24 14-40-54-1.mp4` is included in this repository)*
+
+<video src="https://github.com/sam12fak/Hi-Lo-Card-Game-Unity/raw/master/gameplay.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+[Click here to watch gameplay.mp4](https://github.com/sam12fak/Hi-Lo-Card-Game-Unity/raw/master/gameplay.mp4)
 
 ## ✨ Features
 
